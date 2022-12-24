@@ -13,8 +13,16 @@
 }
 
 .banner{
-    background-image: url('../ProjectWebNovri/images/background_image.png');
+    background-image: url('images/background_image.png');
     height: 788px;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+    z-index: 1;
+}
+.footer{
+    background-image: url('images/bg_footer.png');
+    height: 576px;
     background-size: cover;
     background-position: 50% 50%;
     position: relative;
@@ -26,7 +34,7 @@ div.about{
     position: relative;
     background-size: cover;
     background-position: 50% 50%;
-    background-image: url('../ProjectWebNovri/images/background_about.gif'),linear-gradient(rgb(219, 166, 166), rgb(0, 0, 172));
+    background-image: url('images/background_about.gif'),linear-gradient(rgb(219, 166, 166), rgb(0, 0, 172));
 }
 
 
