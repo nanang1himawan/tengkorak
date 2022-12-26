@@ -4,8 +4,8 @@
         <title>Tengkorak Beats</title>
         <link rel="stylesheet" type="text/css" href="css-main.css" >
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet">
-        <!-- JavaScript Bundle with Popper -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+        
+        <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script> -->
 
     </head>
     <body>
@@ -13,7 +13,7 @@
         <header class="header">
             <nav class="navbar navbar-expand-lg fixed-top py-1 navbar-dark">
                   <a class="navbar ms-3" href="#">
-                    <img src="../ProjectWebNovri/images/logo_header.png" width="170" height="50" alt="">
+                    <img src="images/logo_header.png" width="170" height="50" alt="">
                   </a>
                     <div class="collapse navbar-collapse">
                         <ul class="navbar-nav ms-auto mb-lg-0">
@@ -52,6 +52,15 @@
                             <br> Sometimes I become Voice Over Director—even myself a Voice Actor. What a journey that I've been through make me have so many references to full fill my creativity and imagination for any and many projects, talents/artists, and clients from a variety of genre and concepts. 
                             </p>
                         </div>
+                    </div>
+                    <div class="download d-flex flex-row-reverse bd-highligh" style="margin-right: 10%;">
+                    <button type="button" class="btn1">
+                    <span class="">
+                    <a>
+                        <img src="images/icon_download.png" width="36px" height="36px" alt=""> 
+                    </a>
+                    </span>Download Profile</button>
+                    
                     </div>
                 </div>
             </div>
@@ -141,13 +150,57 @@
         </section> -->
 
 
+        <!-- Footer-->
+        <section id="footer" >
+            <div class="footer row align-items-start">
+                <div class="col-md-3 offset-md-1" style="margin-top: 15%" >
+                <div>
+                    <a>
+                        <img src="images/logo_footer.png" width="275px" height="200px" alt="">
+                    </a>
+                </div>   
+                </div>
+                <div class="col-md-3" style="margin-top: 15%" >
+                    <div>
+                        <div style="text-align: left; font-size: 32px; font-weight: 700; color: #ffffff;"><p>ABOUT</p> </div>
+                        <div style="text-align: left; font-size: 20px; font-weight: 400; color: #ffffff;"><span>tengkorakbeats@gmail.com</span> </div>
+                        <div style="text-align: left; font-size: 20px; font-weight: 400; color: #ffffff;"><span>Yogyakarta, Indonesia</span> </div>
+                        <div>   
 
-
+                            <button type="button" class="btn1">
+                            <span class="">
+                            <a>
+                                <img src="images/icon_instagram.png" width="32px" height="32px" alt=""> 
+                            </a>
+                            </span>
+                            </button>
+                            <button type="button" class="btn1">
+                            <span class="">
+                            <a>
+                                <img src="images/icon_whatsapp.png" width="32px" height="32px" alt=""> 
+                            </a>
+                            </span>
+                            </button>
+                            <button type="button" class="btn1">
+                            <span class="">
+                            <a>
+                                <img src="images/icon_youtube.png" width="32px" height="32px" alt=""> 
+                            </a>
+                            </span>
+                            </button>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div>
+                <div style="text-align: center; font-size: 20px; font-weight: 400; color: #ffffff;"><a>tengkorakbeats©</a> </div>
+                </div>   
+                
+              </div>
+        </section>
+        <!--END Footer-->
         
 
-
-
-        <!-- Footer-->
         
     </body>
 
