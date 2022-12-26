@@ -12,11 +12,11 @@
         <!-- NavBar-->
         <header class="header">
             <nav class="navbar navbar-expand-lg fixed-top py-1 navbar-dark">
-                  <a class="navbar ms-3" href="#">
+                  <a class="navbar" href="#">
                     <img src="images/logo_header.png" width="170" height="50" alt="">
                   </a>
-                    <div class="collapse navbar-collapse">
-                        <ul class="navbar-nav ms-auto mb-lg-0">
+                    <div class="collapse navbar-collapse" style="margin-right: 32px;">
+                        <ul class="navbar-nav ms-auto mb-lg-0" >
                             <li class="nav-item active"><a href="#" class="me-5 nav-link text-uppercase"> HOME</a></li>
                             <li class="nav-item"><a href="#" class="me-5 nav-link text-uppercase ">ABOUT</a></li>
                             <li class="nav-item"><a href="#" class="me-5 nav-link text-uppercase ">MUSIC WORKS</a></li>
@@ -32,7 +32,7 @@
             <div class="banner row align-items-end">
                 <div class="col-md-5 offset-md-1" style="margin-bottom: 8.3333333333%" >
                     <div style="font-size: 48px; font-style: normal; font-weight: 700;"><span style="color: #ffffff">TENGKORAK</span> <span style="color: #8BC53F"> BEATS </span></div>
-                    <div style="font-size: 17px; color: #ffffff;" ><span> Beats Maker - Producer - Mixing & Mastering Engineer </span></div>
+                    <div style="font-size: 17px; color: #ffffff; font-weight: 700;line-height: 140%;" ><span> Beats Maker - Producer - Mixing & Mastering Engineer </span></div>
                 </div>
                 
               </div>
@@ -47,7 +47,7 @@
             <div class="about d-flex justify-content-center">
                 <div style="backdrop-filter: brightness(40%);">
                 <div class="konten">
-                        <div style=" text-align: center; font-size: 96px; font-style: normal; font-weight: 700;"><p>ABOUT</p> </div>
+                        <div style=" text-align: center; font-size: 96px; font-style: normal; font-weight: 700;letter-spacing: 16px;"><p>ABOUT</p> </div>
                         <div style="font-size: 24px;" ><p> I don't why making music can isolate me for an hour, some people say it's called passion. I never stop doing that from the first place until now, and I plan it for the rest of my life. Leaving my education degree and choosing Audio Engineer Class to make me become not just a composer and beat maker. Even better, my daily work life is in music and podcast studios as a sound engineer.<br> 
                             <br> Sometimes I become Voice Over Director—even myself a Voice Actor. What a journey that I've been through make me have so many references to full fill my creativity and imagination for any and many projects, talents/artists, and clients from a variety of genre and concepts. 
                             </p>
@@ -160,13 +160,12 @@
                     </a>
                 </div>   
                 </div>
-                <div class="col-md-3" style="margin-top: 15%" >
+                <div class="col-md-4" style="margin-top: 15%" >
                     <div>
-                        <div style="text-align: left; font-size: 32px; font-weight: 700; color: #ffffff;"><p>ABOUT</p> </div>
-                        <div style="text-align: left; font-size: 20px; font-weight: 400; color: #ffffff;"><span>tengkorakbeats@gmail.com</span> </div>
-                        <div style="text-align: left; font-size: 20px; font-weight: 400; color: #ffffff;"><span>Yogyakarta, Indonesia</span> </div>
-                        <div>   
-
+                    <div style="text-align: left; font-size: 32px; font-weight: 700; color: #ffffff; line-height: 140%;"><p>Get in touch with me!</p> </div>
+                        <div style="text-align: left; font-size: 20px; font-weight: 400; color: #ffffff;margin-top: 16px;"><span>tengkorakbeats@gmail.com</span> </div>
+                        <div style="text-align: left; font-size: 20px; font-weight: 400; color: #ffffff; margin-top: 16px;"><span>Yogyakarta, Indonesia</span> </div>
+                        <div style="letter-spacing: 16px; margin-top: 16px; margin-bottom: 64px;">    
                             <button type="button" class="btn1">
                             <span class="">
                             <a>

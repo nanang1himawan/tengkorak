@@ -1,6 +1,4 @@
-
-  
-  /*
+/*
 *
 * ==========================================
 * CUSTOM UTIL CLASSES
@@ -11,6 +9,11 @@
     background-color: black;
     
 }
+
+a.navbar{
+    margin:0px 0px 0px 32px;
+}
+
 
 .banner{
     background-image: url('images/background_image.png');
@@ -30,7 +33,7 @@
 }
 
 div.about{
-    height: 700px;
+    height: 788px;
     position: relative;
     background-size: cover;
     background-position: 50% 50%;
@@ -79,6 +82,14 @@ div.bg-hitam{
     font-weight: 500;
 }
 
+li{
+    list-style: none;
+    display: inline-block;
+    gap: 64px;
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-end;
+} 
 
 
 /*
@@ -123,3 +134,5 @@ div.bg-hitam{
 .carousel-inner .carousel-item-start { 
   transform: translateX(0);
 } */
+css-main.css
+3 KB
