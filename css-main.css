@@ -30,7 +30,7 @@
 }
 
 div.about{
-    height: 788px;
+    height: 700px;
     position: relative;
     background-size: cover;
     background-position: 50% 50%;
@@ -39,18 +39,44 @@ div.about{
 
 
 div.konten{
-    margin-bottom: 8.3333333333%;
+    margin-bottom: 5%;
     margin-left: 10%;
     margin-right: 10%;
-    margin-top: 8.3333333333%;
+    margin-top: 5%;
 }
 
 div.konten p{
     color: #ffffff;
 }
+.btn{
+    color: #ffffff;
+}
 
 div.bg-hitam{
     background-color: black; 
+}
+
+.btn-label {
+	position: relative;
+	left: -12px;
+	display: inline-block;
+	padding: 6px 12px;
+	background: rgba(0, 0, 0, 0.15);
+	border-radius: 3px 0 0 3px;
+}
+
+.btn-labeled {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.btn1 {
+	margin-bottom: 10px;
+    background-color: transparent;
+    border: none;
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 500;
 }
 
 
